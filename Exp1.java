@@ -92,7 +92,6 @@ public class Exp1 {
                 System.out.println("Employee Not Found");
                 System.out.println();
             }
-
         }
         sc.close();
     }
